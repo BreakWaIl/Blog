@@ -1,0 +1,139 @@
+[31-Oct-2017 10:57:11 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 11:16:34 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 11:16:37 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 11:22:25 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 11:22:27 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 11:35:15 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700,'initialFrameHeight':400});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:35:18 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700,'initialFrameHeight':400});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:35:44 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:35:46 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:36:49 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:36:50 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:36:52 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Admin\article_add.html"  on line 56 "UM.getEditor('art_content',{'initialFrameWidth':700});"  - Unexpected ":", expected one of: "}" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 56
+[31-Oct-2017 11:37:38 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:47:37 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:47:37 PRC] PHP Parse error:  syntax error, unexpected ',' in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:47:38 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:47:38 PRC] PHP Parse error:  syntax error, unexpected ',' in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:47:39 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:47:39 PRC] PHP Parse error:  syntax error, unexpected ',' in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:47:43 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:47:43 PRC] PHP Parse error:  syntax error, unexpected ',' in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:47:46 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:47:46 PRC] PHP Parse error:  syntax error, unexpected ',' in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:47:56 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:48:13 PRC] PHP Notice:  Undefined variable: num in F:\wamp\www\Application\Controller\Admin\ArticleController.class.php on line 6
+[31-Oct-2017 14:54:27 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:54:51 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:54:52 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:54:54 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:55:59 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:56:17 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:56:18 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:56:33 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:56:34 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:56:35 PRC] PHP Fatal error:  Call to undefined method Core\MyPDO::getAll() in F:\wamp\www\Application\Model\ArticleModel.class.php on line 12
+[31-Oct-2017 14:56:57 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:56:57 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:56:57 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:56:57 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:56:57 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 16
+[31-Oct-2017 14:57:10 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 15
+[31-Oct-2017 14:57:10 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 15
+[31-Oct-2017 14:57:10 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 15
+[31-Oct-2017 14:57:10 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 15
+[31-Oct-2017 14:57:10 PRC] PHP Notice:  Undefined offset: 0 in F:\wamp\www\Application\Model\ArticleModel.class.php on line 15
+[31-Oct-2017 15:08:48 PRC] PHP Notice:  Undefined index: lable_list in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 147
+[31-Oct-2017 15:08:48 PRC] PHP Notice:  Trying to get property of non-object in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 147
+[31-Oct-2017 15:09:03 PRC] PHP Notice:  Undefined index: lable_list in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 146
+[31-Oct-2017 15:09:14 PRC] PHP Notice:  Undefined index: lable_list in F:\wamp\www\Application\View_c\Home\38b9329808f5f77c242c0e534e92d924b14994f8.file.index.html.php on line 146
+[31-Oct-2017 15:09:16 PRC] PHP Notice:  Undefined index: lable_list in F:\wamp\www\Application\View_c\Home\38b9329808f5f77c242c0e534e92d924b14994f8.file.index.html.php on line 146
+[31-Oct-2017 15:09:17 PRC] PHP Notice:  Undefined index: lable_list in F:\wamp\www\Application\View_c\Home\38b9329808f5f77c242c0e534e92d924b14994f8.file.index.html.php on line 146
+[31-Oct-2017 15:10:06 PRC] PHP Notice:  Undefined variable: lable_list in F:\wamp\www\Application\Controller\Home\IndexController.class.php on line 11
+[31-Oct-2017 15:10:06 PRC] PHP Notice:  Undefined index: lable_list in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 145
+[31-Oct-2017 15:30:07 PRC] PHP Notice:  Undefined variable: keys in F:\wamp\www\Application\Controller\Home\ArticleController.class.php on line 6
+[31-Oct-2017 15:30:12 PRC] PHP Notice:  Undefined variable: keys in F:\wamp\www\Application\Controller\Home\ArticleController.class.php on line 6
+[31-Oct-2017 15:31:11 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:31:11 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:31:11 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:31:11 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:31:27 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:31:27 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:31:27 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:31:27 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:31:46 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:31:46 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:31:46 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:31:46 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:32:39 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:32:39 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:32:39 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:32:39 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:33:22 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:33:22 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:33:22 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:33:22 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:33:30 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:33:30 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:33:30 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:33:30 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:33:35 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:33:35 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:35:11 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:35:11 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:35:11 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:35:11 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:35:21 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:35:21 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:35:21 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:35:21 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:35:57 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:35:57 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:35:57 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:35:57 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:44:31 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:44:31 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:44:31 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:44:31 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:44:41 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:44:41 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:44:41 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:44:41 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:47:29 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Home\index.html"  on line 106 "<li ><a href="index.php?p=Home&c=Article&a=list&key={$k|url_encode}" target="_blank">{$k}:{$v}</a></li>" unknown modifier "url_encode" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 106
+[31-Oct-2017 15:47:29 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Home\index.html"  on line 106 "<li ><a href="index.php?p=Home&c=Article&a=list&key={$k|url_encode}" target="_blank">{$k}:{$v}</a></li>" unknown modifier "url_encode" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 106
+[31-Oct-2017 15:47:29 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Home\index.html"  on line 106 "<li ><a href="index.php?p=Home&c=Article&a=list&key={$k|url_encode}" target="_blank">{$k}:{$v}</a></li>" unknown modifier "url_encode" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 106
+[31-Oct-2017 15:47:31 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Home\index.html"  on line 106 "<li ><a href="index.php?p=Home&c=Article&a=list&key={$k|url_encode}" target="_blank">{$k}:{$v}</a></li>" unknown modifier "url_encode" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 106
+[31-Oct-2017 15:47:32 PRC] PHP Fatal error:  Uncaught  --> Smarty Compiler: Syntax error in template "F:\wamp\www\Application\View\Home\index.html"  on line 106 "<li ><a href="index.php?p=Home&c=Article&a=list&key={$k|url_encode}" target="_blank">{$k}:{$v}</a></li>" unknown modifier "url_encode" <-- 
+  thrown in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatecompilerbase.php on line 106
+[31-Oct-2017 15:47:42 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:47:42 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:47:42 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:47:42 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:49:07 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:49:07 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:49:07 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 88
+[31-Oct-2017 15:49:07 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:51:05 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 89
+[31-Oct-2017 15:51:05 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 90
+[31-Oct-2017 15:51:05 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 89
+[31-Oct-2017 15:51:05 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Framework\Core\Smarty\sysplugins\smarty_internal_templatebase.php(165) : eval()'d code on line 90
+[31-Oct-2017 15:55:09 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:55:09 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 90
+[31-Oct-2017 15:55:09 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:55:09 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 90
+[31-Oct-2017 15:55:12 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:55:12 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 90
+[31-Oct-2017 15:55:12 PRC] PHP Notice:  Undefined index: user_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 89
+[31-Oct-2017 15:55:12 PRC] PHP Notice:  Undefined index: cat_name in F:\wamp\www\Application\View_c\Home\faa3485a4ef054f17119838b7af463b248cf71b8.file.art_list.html.php on line 90
+[31-Oct-2017 16:08:17 PRC] PHP Fatal error:  Call to undefined method Controller\Home\ArticleController::upAction() in F:\wamp\www\Framework\Core\Framework.class.php on line 98
